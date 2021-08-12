@@ -1,0 +1,17 @@
+Features in Java 8
+
+----------------------------
+
+1. Interface Enhancement
+2. Functional Interface
+3. Lambda Expressions
+4. Stream API
+5. Date & Time API
+
+
+
+1. Interface Enhancement
+===========================
+a. Introduction of default methods - Supports backward compatibility by putting default in front of it
+b. Introduction of static methods
+
